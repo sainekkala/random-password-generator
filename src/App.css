@@ -1,0 +1,11 @@
+.main-div{
+    width: 500px !important;
+    margin: 0 auto;
+    padding-top: 150px;
+    
+}
+.sub-div{
+    border-radius: 3px;
+    background: #dbdbdc;
+    box-shadow: 0px 2px 10px rgba(255, 255, 255, 0.2);
+}
